@@ -1,0 +1,26 @@
+{
+  "name": "next-content",
+  "version": "0.0.0",
+  "description": "making it super easy to import MD(X) and CMS content in your app",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "next",
+    "content",
+    "mdx",
+    "markdown"
+  ],
+  "bugs": "https://github.com/kjxbyz/next-content/issues",
+  "homepage": "https://github.com/kjxbyz/next-content",
+  "author": "kjxbyz <kjxbyz@163.com> (https://github.com/kjxbyz)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjxbyz/next-content.git"
+  },
+  "license": "MIT"
+}
